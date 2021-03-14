@@ -1,0 +1,39 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace UTAD
+{
+	public class #SCRIPTNAME# : MonoBehaviour
+	{
+		#region UNITY METHODS
+		private void Start()
+		{
+			#NOTRIM#
+		}
+
+
+		private void Update()
+		{
+			#NOTRIM#
+		}
+		#endregion
+
+		#region VARIABLES
+		#endregion
+
+		#region PUBLIC METHODS
+		public void Method()
+		{
+			#NOTRIM#
+		}
+		#endregion
+
+		#region PRIVATE METHODS
+		private void method()
+		{
+			#NOTRIM#
+		}
+		#endregion
+	}
+}
